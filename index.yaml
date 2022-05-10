@@ -3,7 +3,7 @@ entries:
   cp-helm-charts:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-05-09T17:24:04.956077002+07:00"
+    created: "2022-05-10T09:16:10.291335153+07:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -34,9 +34,9 @@ entries:
       repository: file://./charts/cp-control-center
       version: 0.1.0
     description: A Helm chart for Confluent Platform Community Edition
-    digest: 4c484b8feeed7924278fb6654c6081d318ee98c85711cbda9a409a0979195893
+    digest: 49290cb22e1787dc107e3456132f30fa7b786d4a84fbbf1b7ee78d73f3178c95
     name: cp-helm-charts
     urls:
     - cp-helm-charts-0.6.1.tgz
     version: 0.6.1
-generated: "2022-05-09T17:24:04.947981512+07:00"
+generated: "2022-05-10T09:16:10.287861108+07:00"
